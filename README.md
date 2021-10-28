@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaydeepSuthar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning VueJS(v3)
 - 💞️ I’m looking to collaborate on Anything that's teach us something new and interesting
 - 📫 You can reach me out at technicaljade@gmail.com
 
